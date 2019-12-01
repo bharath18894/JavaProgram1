@@ -6,5 +6,7 @@ public class Javaprogram1 {
 		System.out.println("from github");
 		//pull to new branch 
 		//push from local repo
+
+//newly updated
 	}
 }
